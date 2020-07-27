@@ -1,0 +1,17 @@
+C:\Users\Админ\source\repos\GameOfLife\GameOfLife\obj\Debug\netcoreapp3.0\GameOfLife.csprojAssemblyReference.cache
+C:\Users\Админ\source\repos\GameOfLife\GameOfLife\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\Админ\source\repos\GameOfLife\GameOfLife\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\Админ\source\repos\GameOfLife\GameOfLife\obj\Debug\netcoreapp3.0\GameOfLife_MarkupCompile.cache
+C:\Users\Админ\source\repos\GameOfLife\GameOfLife\obj\Debug\netcoreapp3.0\GameOfLife_MarkupCompile.lref
+C:\Users\Админ\source\repos\GameOfLife\GameOfLife\bin\Debug\netcoreapp3.0\GameOfLife.exe
+C:\Users\Админ\source\repos\GameOfLife\GameOfLife\bin\Debug\netcoreapp3.0\GameOfLife.deps.json
+C:\Users\Админ\source\repos\GameOfLife\GameOfLife\bin\Debug\netcoreapp3.0\GameOfLife.runtimeconfig.json
+C:\Users\Админ\source\repos\GameOfLife\GameOfLife\bin\Debug\netcoreapp3.0\GameOfLife.runtimeconfig.dev.json
+C:\Users\Админ\source\repos\GameOfLife\GameOfLife\bin\Debug\netcoreapp3.0\GameOfLife.dll
+C:\Users\Админ\source\repos\GameOfLife\GameOfLife\bin\Debug\netcoreapp3.0\GameOfLife.pdb
+C:\Users\Админ\source\repos\GameOfLife\GameOfLife\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\Админ\source\repos\GameOfLife\GameOfLife\obj\Debug\netcoreapp3.0\GameOfLife.g.resources
+C:\Users\Админ\source\repos\GameOfLife\GameOfLife\obj\Debug\netcoreapp3.0\GameOfLife.AssemblyInfoInputs.cache
+C:\Users\Админ\source\repos\GameOfLife\GameOfLife\obj\Debug\netcoreapp3.0\GameOfLife.AssemblyInfo.cs
+C:\Users\Админ\source\repos\GameOfLife\GameOfLife\obj\Debug\netcoreapp3.0\GameOfLife.dll
+C:\Users\Админ\source\repos\GameOfLife\GameOfLife\obj\Debug\netcoreapp3.0\GameOfLife.pdb

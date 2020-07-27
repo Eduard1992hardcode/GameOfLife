@@ -1,0 +1,16 @@
+﻿<Window x:Class="GameOfLife.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GameOfLife"
+        mc:Ignorable="d"
+        Title="Жизнь" Height="900" Width="1200">
+
+    <Canvas x:Name="Galaxy" Height="894" Margin="150,0,10,0">
+        <Button  Content="Start!" Height="89" Width="150" Click="ButtonStart_Click" Canvas.Left="-150"/>
+        <Button x:Name="StartAndStopToLive"  Content="StartToLive" Height="90" Canvas.Left="-150" Canvas.Top="89" Width="150" Click="Button_Click"/>
+        <Button  Content="RandomPlacement" Canvas.Left="-150" Canvas.Top="179" Height="95" Width="150" Click="Button_Click_1"/>
+    </Canvas>
+
+</Window>
